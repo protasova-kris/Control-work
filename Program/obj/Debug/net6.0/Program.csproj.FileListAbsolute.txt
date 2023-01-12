@@ -1,0 +1,15 @@
+E:\Kris\Control work\Program\bin\Debug\net6.0\Program.exe
+E:\Kris\Control work\Program\bin\Debug\net6.0\Program.deps.json
+E:\Kris\Control work\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+E:\Kris\Control work\Program\bin\Debug\net6.0\Program.dll
+E:\Kris\Control work\Program\bin\Debug\net6.0\Program.pdb
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.dll
+E:\Kris\Control work\Program\obj\Debug\net6.0\refint\Program.dll
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.pdb
+E:\Kris\Control work\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+E:\Kris\Control work\Program\obj\Debug\net6.0\ref\Program.dll
